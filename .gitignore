@@ -36,3 +36,6 @@
 
 # Emacs Markdown Preview file
 *.markdown-preview.html
+
+# Platformio IDE project .ini file
+*.ini
