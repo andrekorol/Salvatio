@@ -4,6 +4,7 @@ Enter description here...
 .  
 ├── [lib](/lib)  
 │   └── [readme.txt](/lib/readme.txt)  
+├── [platformio.ini](/platformio.ino)  
 ├── [README.md](/README.md)  
 ├── [schematics](/schematics)  
 │   ├── [designs](/schematics/designs)  
