@@ -4,6 +4,7 @@ Enter description here...
 .  
 ├── [lib](/lib)  
 │   └── [readme.txt](/lib/readme.txt)  
+├── [platformio.ini](/platformio.ino)  
 ├── [README.md](/README.md)  
 ├── [schematics](/schematics)  
 │   ├── [designs](/schematics/designs)  
@@ -15,6 +16,8 @@ Enter description here...
 │   │   ├── [design (6).jpeg](/schematics/designs/design%20(6).jpeg)  
 │   │   ├── [design (7).jpeg](/schematics/designs/design%20(7).jpeg)  
 │   │   └── [design (8).jpeg](/schematics/designs/design%20(8).jpeg)  
-│   └── [diagram.jpeg](/schematics/diagram.jpeg)  
+│   ├── [diagram.jpeg](/schematics/diagram.jpeg)  
+│   └── [sketches](/schematics/sketches)  
+│       └── [Sketch-Inicial.fzz](/schematics/sketches/Sketch-Inicial.fzz)  
 └── [src](/src)  
     ├── [main.cpp](/src/main.cpp)  
