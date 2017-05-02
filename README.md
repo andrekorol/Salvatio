@@ -3,11 +3,11 @@ Enter description here...
 ## Repository tree
 .  
 ├── [lib](/lib)  
-│   └── readme.txt  
-├── README.md  
-├── schematics  
-│   ├── designs  
-│   │   ├── design (1).jpeg  
+│   └── [readme.txt](/lib/readme.txt)  
+├── [README.md](/README.md)  
+├── [schematics](/schematics)  
+│   ├── [designs](/schematics/designs)  
+│   │   ├── [design (1).jpeg](/schematics/designs/design%20(3).jpeg)  
 │   │   ├── design (2).jpeg  
 │   │   ├── design (3).jpeg  
 │   │   ├── design (4).jpeg  
