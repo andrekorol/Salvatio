@@ -4,7 +4,7 @@ Enter description here...
 .  
 ├── lib  
 │   └── readme.txt  
-├── platformio.ini  
+
 ├── #README.md#  
 ├── README.md  
 ├── schematics  
