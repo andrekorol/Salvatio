@@ -33,3 +33,6 @@
 
 # Emacs temporary files
 *.cpp~
+
+# Emacs Markdown Preview file
+*.markdown-preview.html
