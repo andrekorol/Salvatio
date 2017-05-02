@@ -4,8 +4,6 @@ Enter description here...
 .  
 ├── lib  
 │   └── readme.txt  
-
-├── #README.md#  
 ├── README.md  
 ├── schematics  
 │   ├── designs  
