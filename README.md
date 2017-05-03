@@ -8,6 +8,7 @@
              alt="build status">
     </a>
 </p>
+
 ## Salvatio é um controle de emergências com três botões:
 * **O primeiro botão liga para o SAMU(192)**
 * **O segundo botão liga para um familiar e manda por SMS a localização e o nome do usuário**
