@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://gitlab.com/koroltecnologia/Salvatio/blob/master/schematics/designs/cover/cover.png"
+    <img src="https://cdn.rawgit.com/andrekorol/Salvatio/9b735197/schematics/designs/cover/cover.png"
          height="130">
 </p>
 
