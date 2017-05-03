@@ -2,7 +2,24 @@
     <img src="https://cdn.rawgit.com/andrekorol/Salvatio/9b735197/schematics/designs/cover/cover.png"
          height="130">
 </p>
-
+<p align="center">
+    <a href="https://">
+        <img src="https://img.shields.io/gratipay/team/shields.svg"
+             alt="Gratipay">
+    </a>
+    <a href="https://npmjs.org/package/gh-badges">
+        <img src="https://img.shields.io/npm/v/gh-badges.svg"
+             alt="npm version">
+    </a>
+    <a href="https://travis-ci.org/badges/shields">
+        <img src="https://img.shields.io/travis/badges/shields.svg"
+             alt="build status">
+    </a>
+    <a href="https://discord.gg/HjJCwm5">
+        <img src="https://img.shields.io/discord/308323056592486420.svg"
+             alt="chat on Discord">
+    </a>
+</p>
 ## Salvatio é um controle de emergências com três botões:
 * **O primeiro botão liga para o SAMU(192)**
 * **O segundo botão liga para um familiar e manda por SMS a localização e o nome do usuário**
