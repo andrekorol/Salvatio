@@ -11,6 +11,9 @@ before_script:
   - apt-get -y -qq install arduino arduino-core
   - python -c "$(curl -fsSL https://raw.githubusercontent.com/platformio/platformio/master/scripts/get-platformio.py)"
 
+stages:
+  - build
+
 build_linux:
   stage: build
   script:
