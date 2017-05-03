@@ -14,4 +14,4 @@ before_script:
 build_linux:
   stage: build
   script:
-    - bundle exec build_linux
+    - platformio run
