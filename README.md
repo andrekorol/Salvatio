@@ -3,21 +3,13 @@
          height="130">
 </p>
 <p align="center">
-    <a href="https://">
-        <img src="https://img.shields.io/gratipay/team/shields.svg"
-             alt="Gratipay">
-    </a>
-    <a href="https://npmjs.org/package/gh-badges">
-        <img src="https://img.shields.io/npm/v/gh-badges.svg"
-             alt="npm version">
-    </a>
-    <a href="https://travis-ci.org/badges/shields">
-        <img src="https://img.shields.io/travis/badges/shields.svg"
+    <a href="https://gitlab.com/koroltecnologia/Salvatio/commits/master">
+        <img src="https://gitlab.com/koroltecnologia/Salvatio/badges/master/build.svg"
              alt="build status">
     </a>
-    <a href="https://discord.gg/HjJCwm5">
-        <img src="https://img.shields.io/discord/308323056592486420.svg"
-             alt="chat on Discord">
+    <a href=""https://gitlab.com/koroltecnologia/Salvatio/commits/master">
+        <img src="https://gitlab.com/koroltecnologia/Salvatio/badges/master/coverage.svg"
+             alt="coverage report">
     </a>
 </p>
 ## Salvatio é um controle de emergências com três botões:
