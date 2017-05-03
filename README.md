@@ -7,10 +7,6 @@
         <img src="https://gitlab.com/koroltecnologia/Salvatio/badges/master/build.svg"
              alt="build status">
     </a>
-    <a href=""https://gitlab.com/koroltecnologia/Salvatio/commits/master">
-        <img src="https://gitlab.com/koroltecnologia/Salvatio/badges/master/coverage.svg"
-             alt="coverage report">
-    </a>
 </p>
 ## Salvatio é um controle de emergências com três botões:
 * **O primeiro botão liga para o SAMU(192)**
