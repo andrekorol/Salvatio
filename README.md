@@ -1,4 +1,8 @@
-# Salvatio
+<p align="center">
+    <img src="https://gitlab.com/koroltecnologia/Salvatio/blob/master/schematics/designs/cover/cover.png"
+         height="130">
+</p>
+
 Salvatio é um controle de emergências com três botões:  
 * O primeiro botão liga para o SAMU(192)
 * O segundo botão liga para um familiar e manda por SMS a localização e o nome do usuário
