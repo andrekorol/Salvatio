@@ -8,7 +8,7 @@
 * **O segundo botão liga para um familiar e manda por SMS a localização e o nome do usuário**
 * **O terceiro botão cancela qualquer uma das operações anteriores**
 
-## Repository tree
+# Repository tree
 .  
 ├── [lib](/lib)  
 │   └── [readme.txt](/lib/readme.txt)  
