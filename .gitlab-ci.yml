@@ -1,17 +1,17 @@
 before_script:
-  - apt-get update -qq && apt-get -y -qq install build-essential checkinstall
-  - apt-get -y -qq install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
-  - wget https://www.python.org/ftp/python/2.7.13/Python-2.7.13.tgz
-  - tar xzf Python-2.7.13.tgz
-  - cd Python-2.7.13
-  - ./configure
-  - make
-  - make install
+  - sudo apt-get update -qq && apt-get -y -qq install build-essential checkinstall
+  - sudo apt-get -y -qq install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+  - sudo wget https://www.python.org/ftp/python/2.7.13/Python-2.7.13.tgz
+  - sudo tar xzf Python-2.7.13.tgz
+  - sudo cd Python-2.7.13
+  - sudo ./configure
+  - sudo make
+  - sudo make install
   - cd ..
-  - apt-get -y -qq install arduino arduino-core
-  - python -c "$(curl -fsSL https://raw.githubusercontent.com/platformio/platformio/master/scripts/get-platformio.py)"
+  - sudo apt-get -y -qq install arduino arduino-core
+  - sudo python -c "$(curl -fsSL https://raw.githubusercontent.com/platformio/platformio/master/scripts/get-platformio.py)"
 
 build_linux:
   stage: build
   script:
-    - platformio run
+    - sudo platformio run
