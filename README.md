@@ -1,5 +1,8 @@
 # Salvatio
-Enter description here...
+Salvatio é um controle de emergências com três botões:  
+* O primeiro botão liga para o SAMU(192)
+* O segundo botão liga para um familiar e manda por SMS a localização e o nome do usuário
+* O terceiro botão cancela qualquer uma das operações anteriores
 ## Repository tree
 .  
 ├── [lib](/lib)  
