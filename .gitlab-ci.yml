@@ -17,4 +17,5 @@ stages:
 build_linux:
   stage: build
   script:
+    - platformio platform update
     - platformio run
