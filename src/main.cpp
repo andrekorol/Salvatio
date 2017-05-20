@@ -21,10 +21,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  */
-
 /*
   For a permissive-licensed copy of this software please refer to
-  https://gitlab.com/koroltecnologia/Salvatio
+  https://github.com/andrekorol/Salvatio
  */
 
 #include <Arduino.h>
