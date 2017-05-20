@@ -40,3 +40,6 @@
 
 # Node.js files
 *node
+.pioenvs
+.piolibdeps
+CMakeListsPrivate.txt
